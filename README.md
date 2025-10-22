@@ -1,11 +1,11 @@
-# 🧠 Algorithm Analysis Project
+#  Algorithm Analysis Project
 
 This project explores, implements, and compares **sorting**, **searching**, and **graph algorithms** using Python.  
 It aims to analyze their performance and efficiency across multiple datasets through visualization and quantitative comparison.
 
 ---
 
-## 📁 Project Overview
+##  Project Overview
 
 The project is divided into three main tasks:
 
@@ -37,7 +37,7 @@ The project is divided into three main tasks:
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
 - **Python 3.x**
 - **Jupyter Notebook**
@@ -48,5 +48,3 @@ The project is divided into three main tasks:
   - `timeit` — Performance measurement
 
 ---
-
-## 📊 Project Structure
